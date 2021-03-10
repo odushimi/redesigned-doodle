@@ -1,22 +1,15 @@
 {
-  "name": "redesigned-doodle",
-  "version": "1.0.0",
-  "description": "Learn nodejs",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+	"name": "fcc-learn-npm-package-json",
   "author": "Ozias Dushimimana",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/odushimi/redesigned-doodle.git"
-  },
-  "keywords": [
-    "nodejs"
-  ],
-  "bugs": {
-    "url": "https://github.com/odushimi/redesigned-doodle/issues"
-  },
-  "homepage": "https://github.com/odushimi/redesigned-doodle#readme"
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
 }
