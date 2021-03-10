@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
   "author": "Ozias Dushimimana",
+  "description": "Let's learn together",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
